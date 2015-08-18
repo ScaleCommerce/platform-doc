@@ -1,7 +1,7 @@
 # Konfiguration der Appserver
 
 Unsere Appserver verwenden Apache mit mod_php und ausgeschalteter .htaccess-Unterstützung.
-Dies ist der performanteste Weg um eine PHP-Applikation zu betreiben.
+Dies ist der performanteste Weg um eine PHP-Applikation zu betreibe.
 
 ## Wie bekomme ich dennoch Support für .htaccess?
 Sämtliche Regeln, die es in .htaccess gibt, können auch in gleicher Syntax ditrekt in die Apache Konfiguration geschrieben werden.
