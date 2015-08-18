@@ -9,3 +9,5 @@ Sämtliche Regeln, die es in .htaccess gibt, können auch in gleicher Syntax dit
 **Nachteil:** Nach Änderungen daran, muss der Service einmal neue gestartet werden.
 
 **Vorteil:** Da der Server nicht bei jedem Aufruf erneut alle Verzeichnisse prüfen muss, wird der Prozess wesentlich beschleunigt.
+
+**Umsetzung:** Doku, wie Du die Konfiguration beeinflussen kannst folgt. Solange wende dich einfach per Mail oder HipChat an uns.
